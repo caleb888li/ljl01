@@ -1,0 +1,31 @@
+<html>
+<head></head>
+<body style="margin:0;">
+<div style="text-align:center;
+background-color:#f1f1f1;padding:30;">
+<img src="images/蜡笔小新.jpg" alt="图片出错显示文字" width="80" height="80">
+</div>
+<div style="max-width:700;
+background-color:#f1f1f1;
+margin:30 auto;
+padding:20;
+line-height:1.7;
+color:blue;">
+<p style="color:blue;text-align:center;">从电话线到万兆光纤的逆袭史！</p>
+<p>一二类网线（80年代）外观：类似电话线（4芯扁平线），外皮无标识速度：仅支持4Mbps（传MP3都困难）用途：老式电话、初代传真机缺陷：抗干扰极差，冰箱启动会导致断网</p>
+<p>三类线（CAT3）突破：首次双绞！1绞/英寸速度：10Mbps（支撑初代以太网）遗迹：老式办公楼电话系统</p>
+<p>四类线（CAT4）存在感极低：仅存活3年速度：16Mbps（被五类线秒杀）冷知识：国内几乎未普及</p>
+<p>五类线革命（1995年）划时代突破：双绞结构+8芯设计速度飞跃：100Mbps → 1Gbps（超五类）时代记忆：支撑ADSL宽带和初代网游《传奇》</p>
+<p>六类线崛起（2002年）核心升级：增加尼龙十字骨架抗干扰提升：线对隔离防串扰速度登顶：10Gbps（55米内）地位：至今仍是家用主力</p>
+<p>七类线（2002年标准，2010普及）性能：600MHz带宽+全屏蔽铝箔突破：支持万兆100米传输代价：需专用GG45接口（兼容RJ45但性能打折）用途：工业环境、8K视频工作室</p>
+<p>八类线（2016年问世）性能：2000MHz带宽+40Gbps硬伤：传输距离仅30米定位：数据中心服务器直连（非家用）</p>
+</div>
+<div style="text-align:center;
+background-color:#f1f1f1;padding:30;
+color:blue"
+<p>了解更多点击下方</p>
+<a href="https://www.xiaohongshu.com/explore/684014e70000000021002cc8?xsec_token=ABILX1sACCxk5feEs_iRYI40AAopipHwN5LJoBkid5hRw=&xsec_source=pc_user">点我</a>
+</div>
+
+</body>
+</html>
